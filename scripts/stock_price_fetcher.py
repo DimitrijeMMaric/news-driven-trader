@@ -1,0 +1,1 @@
+# API for automatic stock purchases was too expensive :(
